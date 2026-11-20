@@ -1,0 +1,927 @@
+{
+ "format": "camcraft-tools",
+ "version": 1,
+ "units": "mm",
+ "tools": [
+  {
+   "name": "1mm jobber drill 118\u00b0 HSS LOC 12 OAL 34 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 12,
+    "shank_d": 1.0,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.1mm jobber drill 118\u00b0 HSS LOC 14 OAL 36 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.1,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 14,
+    "shank_d": 1.1,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.2mm jobber drill 118\u00b0 HSS LOC 16 OAL 38 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.2,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 16,
+    "shank_d": 1.2,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.3mm jobber drill 118\u00b0 HSS LOC 16 OAL 38 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.3,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 16,
+    "shank_d": 1.3,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.4mm jobber drill 118\u00b0 HSS LOC 18 OAL 40 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.4,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 18,
+    "shank_d": 1.4,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.5mm jobber drill 118\u00b0 HSS LOC 18 OAL 40 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 18,
+    "shank_d": 1.5,
+    "shank_len": 22,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.6mm jobber drill 118\u00b0 HSS LOC 20 OAL 43 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.6,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 20,
+    "shank_d": 1.6,
+    "shank_len": 23,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.7mm jobber drill 118\u00b0 HSS LOC 20 OAL 43 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.7,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 20,
+    "shank_d": 1.7,
+    "shank_len": 23,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.8mm jobber drill 118\u00b0 HSS LOC 22 OAL 46 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.8,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 22,
+    "shank_d": 1.8,
+    "shank_len": 24,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "1.9mm jobber drill 118\u00b0 HSS LOC 22 OAL 46 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.9,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 22,
+    "shank_d": 1.9,
+    "shank_len": 24,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2mm jobber drill 118\u00b0 HSS LOC 24 OAL 49 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 24,
+    "shank_d": 2.0,
+    "shank_len": 25,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.1mm jobber drill 118\u00b0 HSS LOC 24 OAL 49 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.1,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 24,
+    "shank_d": 2.1,
+    "shank_len": 25,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.2mm jobber drill 118\u00b0 HSS LOC 27 OAL 53 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.2,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 27,
+    "shank_d": 2.2,
+    "shank_len": 26,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.3mm jobber drill 118\u00b0 HSS LOC 27 OAL 53 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.3,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 27,
+    "shank_d": 2.3,
+    "shank_len": 26,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.4mm jobber drill 118\u00b0 HSS LOC 30 OAL 57 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.4,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 30,
+    "shank_d": 2.4,
+    "shank_len": 27,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.5mm jobber drill 118\u00b0 HSS LOC 30 OAL 57 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 30,
+    "shank_d": 2.5,
+    "shank_len": 27,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.6mm jobber drill 118\u00b0 HSS LOC 30 OAL 57 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.6,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 30,
+    "shank_d": 2.6,
+    "shank_len": 27,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.7mm jobber drill 118\u00b0 HSS LOC 33 OAL 61 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.7,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 33,
+    "shank_d": 2.7,
+    "shank_len": 28,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.8mm jobber drill 118\u00b0 HSS LOC 33 OAL 61 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.8,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 33,
+    "shank_d": 2.8,
+    "shank_len": 28,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "2.9mm jobber drill 118\u00b0 HSS LOC 33 OAL 61 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.9,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 33,
+    "shank_d": 2.9,
+    "shank_len": 28,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "3mm jobber drill 118\u00b0 HSS LOC 33 OAL 61 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 3.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 33,
+    "shank_d": 3.0,
+    "shank_len": 28,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 100.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "3.3mm jobber drill 118\u00b0 HSS LOC 36 OAL 65 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 3.3,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 36,
+    "shank_d": 3.3,
+    "shank_len": 29,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 9645,
+    "feed": 192.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "3.5mm jobber drill 118\u00b0 HSS LOC 39 OAL 70 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 3.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 39,
+    "shank_d": 3.5,
+    "shank_len": 31,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 9094,
+    "feed": 181.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "4mm jobber drill 118\u00b0 HSS LOC 43 OAL 75 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 43,
+    "shank_d": 4.0,
+    "shank_len": 32,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 7957,
+    "feed": 159.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "4.2mm jobber drill 118\u00b0 HSS LOC 43 OAL 75 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.2,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 43,
+    "shank_d": 4.2,
+    "shank_len": 32,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 7578,
+    "feed": 151.5,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "4.5mm jobber drill 118\u00b0 HSS LOC 47 OAL 80 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 47,
+    "shank_d": 4.5,
+    "shank_len": 33,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 7073,
+    "feed": 141.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "5mm jobber drill 118\u00b0 HSS LOC 52 OAL 86 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 52,
+    "shank_d": 5.0,
+    "shank_len": 34,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6366,
+    "feed": 127.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "5.5mm jobber drill 118\u00b0 HSS LOC 57 OAL 93 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 57,
+    "shank_d": 5.5,
+    "shank_len": 36,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5787,
+    "feed": 115.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "6mm jobber drill 118\u00b0 HSS LOC 57 OAL 93 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 57,
+    "shank_d": 6.0,
+    "shank_len": 36,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5305,
+    "feed": 106.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "6.5mm jobber drill 118\u00b0 HSS LOC 63 OAL 101 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 63,
+    "shank_d": 6.5,
+    "shank_len": 38,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4897,
+    "feed": 195.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "6.8mm jobber drill 118\u00b0 HSS LOC 69 OAL 109 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.8,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 69,
+    "shank_d": 6.8,
+    "shank_len": 40,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4681,
+    "feed": 187.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "7mm jobber drill 118\u00b0 HSS LOC 69 OAL 109 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 69,
+    "shank_d": 7.0,
+    "shank_len": 40,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4547,
+    "feed": 181.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "7.5mm jobber drill 118\u00b0 HSS LOC 69 OAL 109 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 69,
+    "shank_d": 7.5,
+    "shank_len": 40,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4244,
+    "feed": 169.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "8mm jobber drill 118\u00b0 HSS LOC 75 OAL 117 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 75,
+    "shank_d": 8.0,
+    "shank_len": 42,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3978,
+    "feed": 159.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "8.5mm jobber drill 118\u00b0 HSS LOC 75 OAL 117 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 75,
+    "shank_d": 8.5,
+    "shank_len": 42,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3744,
+    "feed": 149.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "8.8mm jobber drill 118\u00b0 HSS LOC 81 OAL 125 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.8,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 81,
+    "shank_d": 8.8,
+    "shank_len": 44,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3617,
+    "feed": 144.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "9mm jobber drill 118\u00b0 HSS LOC 81 OAL 125 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 81,
+    "shank_d": 9.0,
+    "shank_len": 44,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3536,
+    "feed": 141.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "9.5mm jobber drill 118\u00b0 HSS LOC 81 OAL 125 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 81,
+    "shank_d": 9.5,
+    "shank_len": 44,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3350,
+    "feed": 134.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "10mm jobber drill 118\u00b0 HSS LOC 87 OAL 133 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 87,
+    "shank_d": 10.0,
+    "shank_len": 46,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3183,
+    "feed": 127.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "10.2mm jobber drill 118\u00b0 HSS LOC 87 OAL 133 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.2,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 87,
+    "shank_d": 10.2,
+    "shank_len": 46,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3120,
+    "feed": 124.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "10.5mm jobber drill 118\u00b0 HSS LOC 87 OAL 133 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 87,
+    "shank_d": 10.5,
+    "shank_len": 46,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3031,
+    "feed": 121.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "11mm jobber drill 118\u00b0 HSS LOC 94 OAL 142 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 94,
+    "shank_d": 11.0,
+    "shank_len": 48,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 2893,
+    "feed": 115.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "11.5mm jobber drill 118\u00b0 HSS LOC 94 OAL 142 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 94,
+    "shank_d": 11.5,
+    "shank_len": 48,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 2767,
+    "feed": 110.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "12mm jobber drill 118\u00b0 HSS LOC 101 OAL 151 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 101,
+    "shank_d": 12.0,
+    "shank_len": 50,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 2652,
+    "feed": 106.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "12.5mm jobber drill 118\u00b0 HSS LOC 101 OAL 151 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.5,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 101,
+    "shank_d": 12.5,
+    "shank_len": 50,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 2546,
+    "feed": 142.5,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "13mm jobber drill 118\u00b0 HSS LOC 101 OAL 151 - aluminum",
+   "definition": {
+    "kind": "drill",
+    "diameter": 13.0,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 101,
+    "shank_d": 13.0,
+    "shank_len": 50,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 2448,
+    "feed": 137.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  }
+ ]
+}

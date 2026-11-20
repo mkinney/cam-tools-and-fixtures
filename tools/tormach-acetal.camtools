@@ -1,0 +1,2147 @@
+{
+ "format": "camcraft-tools",
+ "version": 1,
+ "units": "mm",
+ "tools": [
+  {
+   "name": "Tormach 33445 3/16\" 4FL flat Uncoated LOC 1/2 OAL 2-3/8 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 4.7625,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6683,
+    "feed": 668.3,
+    "tool_material": "hss",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Tormach 33452 1/2\" 4FL CR .02 Nano AlTiN LOC 1 OAL 3 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5012,
+    "feed": 1684.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Tormach 33458 3/16\" 2FL flat DE Uncoated LOC 7/16 OAL 3-1/8 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 4.7625,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 11.1125,
+    "shank_d": 9.525,
+    "shank_len": 68.2625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6683,
+    "feed": 334.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33497 3/64\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.190625,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 1.190625,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33499 #55 (0.0520\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.3208,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 22.225,
+    "shank_d": 1.3208,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33506 #48 (0.0760\") jobber drill 118deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.9304,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 1.9304,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33549 #5 (0.2055\") jobber drill 118deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.2197,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 63.5,
+    "shank_d": 5.2197,
+    "shank_len": 31.75,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6098,
+    "feed": 152.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33550 #4 (0.2090\") jobber drill 118deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.3086,
+    "corner_r": 0.0,
+    "tip_angle": 118.0,
+    "pitch": 0.0,
+    "flute_len": 63.5,
+    "shank_d": 5.3086,
+    "shank_len": 31.75,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5996,
+    "feed": 149.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33562 I (0.2720\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.9088,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 73.025,
+    "shank_d": 6.9088,
+    "shank_len": 31.75,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4607,
+    "feed": 230.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33563 J (0.2770\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.0358,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 73.025,
+    "shank_d": 7.0358,
+    "shank_len": 31.75,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4524,
+    "feed": 226.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33569 P (0.3230\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.2042,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 84.1375,
+    "shank_d": 8.2042,
+    "shank_len": 33.3375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3879,
+    "feed": 193.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33573 7/64\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.778125,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 2.778125,
+    "shank_len": 28.575,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33588 R (0.3390\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.6106,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.3125,
+    "shank_d": 8.6106,
+    "shank_len": 33.3375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3696,
+    "feed": 184.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33590 T (0.3580\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.0932,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 88.9,
+    "shank_d": 9.0932,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3500,
+    "feed": 175.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33591 U (0.3680\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.3472,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 92.075,
+    "shank_d": 9.3472,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3405,
+    "feed": 170.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33594 X (0.3970\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.0838,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 95.25,
+    "shank_d": 10.0838,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3156,
+    "feed": 157.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33595 Y (0.4040\") jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.2616,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 98.425,
+    "shank_d": 10.2616,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3101,
+    "feed": 155.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33597 21/64\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.334375,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 84.1375,
+    "shank_d": 8.334375,
+    "shank_len": 33.3375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3819,
+    "feed": 190.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33599 23/64\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.128125,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 88.9,
+    "shank_d": 9.128125,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3487,
+    "feed": 174.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33602 13/32\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.31875,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 98.425,
+    "shank_d": 10.31875,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3084,
+    "feed": 154.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33606 15/32\" jobber drill 135deg HSS TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.90625,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 109.5375,
+    "shank_d": 11.90625,
+    "shank_len": 36.5125,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2673,
+    "feed": 133.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33610 1.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 12.0,
+    "shank_d": 1.1,
+    "shank_len": 22.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33611 1.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 16.0,
+    "shank_d": 1.2,
+    "shank_len": 22.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33612 1.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 16.0,
+    "shank_d": 1.3,
+    "shank_len": 22.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33613 1.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 18.0,
+    "shank_d": 1.4,
+    "shank_len": 22.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33616 1.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 20.0,
+    "shank_d": 1.7,
+    "shank_len": 23.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33617 1.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 22.0,
+    "shank_d": 1.8,
+    "shank_len": 24.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33618 1.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 22.0,
+    "shank_d": 1.9,
+    "shank_len": 24.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33621 2.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 27.0,
+    "shank_d": 2.2,
+    "shank_len": 26.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33626 2.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 33.0,
+    "shank_d": 2.7,
+    "shank_len": 28.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33627 2.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 33.0,
+    "shank_d": 2.8,
+    "shank_len": 28.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33628 2.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 2.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 33.0,
+    "shank_d": 2.9,
+    "shank_len": 28.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33636 3.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 3.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 39.0,
+    "shank_d": 3.7,
+    "shank_len": 31.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 8602,
+    "feed": 215.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33638 3.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 3.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 43.0,
+    "shank_d": 3.9,
+    "shank_len": 32.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 8161,
+    "feed": 204.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33642 4.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 47.0,
+    "shank_d": 4.3,
+    "shank_len": 33.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 7402,
+    "feed": 185.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33645 4.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 47.0,
+    "shank_d": 4.6,
+    "shank_len": 33.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6919,
+    "feed": 172.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33646 4.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 47.0,
+    "shank_d": 4.7,
+    "shank_len": 33.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6772,
+    "feed": 169.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33647 4.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 4.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 52.0,
+    "shank_d": 4.8,
+    "shank_len": 34.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6631,
+    "feed": 165.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33652 5.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 52.0,
+    "shank_d": 5.3,
+    "shank_len": 34.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6005,
+    "feed": 150.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33653 5.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 57.0,
+    "shank_d": 5.4,
+    "shank_len": 36.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5894,
+    "feed": 147.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33655 5.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 57.0,
+    "shank_d": 5.6,
+    "shank_len": 36.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5684,
+    "feed": 142.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33656 5.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 57.0,
+    "shank_d": 5.7,
+    "shank_len": 36.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5584,
+    "feed": 139.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33657 5.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 57.0,
+    "shank_d": 5.8,
+    "shank_len": 36.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5488,
+    "feed": 137.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33658 5.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 5.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 57.0,
+    "shank_d": 5.9,
+    "shank_len": 36.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5395,
+    "feed": 134.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33661 6.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 63.0,
+    "shank_d": 6.2,
+    "shank_len": 38.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5134,
+    "feed": 256.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33662 6.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 63.0,
+    "shank_d": 6.3,
+    "shank_len": 38.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5052,
+    "feed": 252.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33665 6.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 6.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 63.0,
+    "shank_d": 6.6,
+    "shank_len": 38.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4822,
+    "feed": 241.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33670 7.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 69.0,
+    "shank_d": 7.1,
+    "shank_len": 40.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4483,
+    "feed": 224.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33671 7.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 69.0,
+    "shank_d": 7.2,
+    "shank_len": 40.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4420,
+    "feed": 221.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33672 7.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 69.0,
+    "shank_d": 7.3,
+    "shank_len": 40.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4360,
+    "feed": 218.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33673 7.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 69.0,
+    "shank_d": 7.4,
+    "shank_len": 40.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4301,
+    "feed": 215.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33674 7.5mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.5,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 69.0,
+    "shank_d": 7.5,
+    "shank_len": 40.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4244,
+    "feed": 212.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33675 7.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 7.6,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4188,
+    "feed": 209.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33676 7.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 7.7,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4133,
+    "feed": 206.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33677 7.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 7.8,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4080,
+    "feed": 204.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33678 7.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 7.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 7.9,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 4029,
+    "feed": 201.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33680 8.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 8.1,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3929,
+    "feed": 196.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33681 8.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 8.2,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3881,
+    "feed": 194.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33682 8.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 8.3,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3835,
+    "feed": 191.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33683 8.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 75.0,
+    "shank_d": 8.4,
+    "shank_len": 42.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3789,
+    "feed": 189.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33685 8.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 8.6,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3701,
+    "feed": 185.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33687 8.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 8.8,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3617,
+    "feed": 180.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33688 8.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 8.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 8.9,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3576,
+    "feed": 178.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33690 9.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 9.1,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3497,
+    "feed": 174.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33691 9.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 9.2,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3459,
+    "feed": 172.9,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33692 9.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 9.3,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3422,
+    "feed": 171.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33693 9.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 81.0,
+    "shank_d": 9.4,
+    "shank_len": 44.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3386,
+    "feed": 169.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33695 9.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 9.6,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3315,
+    "feed": 165.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33696 9.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 9.7,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3281,
+    "feed": 164.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33697 9.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 9.8,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3248,
+    "feed": 162.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33698 9.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 9.9,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3215,
+    "feed": 160.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33700 10.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 10.1,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3151,
+    "feed": 157.5,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33701 10.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 10.2,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3120,
+    "feed": 156.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33702 10.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 10.3,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3090,
+    "feed": 154.5,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33703 10.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 10.4,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3060,
+    "feed": 153.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33705 10.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 87.0,
+    "shank_d": 10.6,
+    "shank_len": 46.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3002,
+    "feed": 150.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33706 10.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 10.7,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2974,
+    "feed": 148.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33707 10.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 10.8,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2947,
+    "feed": 147.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33708 10.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 10.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 10.9,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2920,
+    "feed": 146.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33709 11mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.0,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.0,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2893,
+    "feed": 144.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33710 11.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.1,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2867,
+    "feed": 143.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33711 11.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.2,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2842,
+    "feed": 142.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33712 11.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.3,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2816,
+    "feed": 140.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33713 11.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.4,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2792,
+    "feed": 139.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33714 11.5mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.5,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.5,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2767,
+    "feed": 138.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33715 11.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.6,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2744,
+    "feed": 137.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33716 11.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.7,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2720,
+    "feed": 136.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33717 11.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 94.0,
+    "shank_d": 11.8,
+    "shank_len": 48.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2697,
+    "feed": 134.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33718 11.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 11.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 11.9,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2674,
+    "feed": 133.7,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33720 12.1mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.1,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.1,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2630,
+    "feed": 184.1,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33721 12.2mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.2,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.2,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2609,
+    "feed": 182.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33722 12.3mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.3,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.3,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2587,
+    "feed": 181.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33723 12.4mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.4,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.4,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2567,
+    "feed": 179.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33724 12.5mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.5,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.5,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2546,
+    "feed": 178.2,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33725 12.6mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.6,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.6,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2526,
+    "feed": 176.8,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33726 12.7mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.7,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2506,
+    "feed": 175.4,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33727 12.8mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.8,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.8,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2486,
+    "feed": 174.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33728 12.9mm jobber drill 135deg HSS-Co5 TiN - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 12.9,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 101.0,
+    "shank_d": 12.9,
+    "shank_len": 50.0,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 2467,
+    "feed": 172.6,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33740 1/8\" 2FL flat TiAlN LOC 1/2 OAL 1-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 3.175,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 3.175,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 600.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 33748 3/8\" 4FL flat TiAlN LOC 1 OAL 2-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6683,
+    "feed": 1603.9,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Tormach 33753 3/8\" 2FL flat DE TiAlN LOC 9/16 OAL 2-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 14.2875,
+    "shank_d": 9.525,
+    "shank_len": 49.2125,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 6683,
+    "feed": 801.9,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 34471 3/64\" jobber drill 135deg HSS Bright - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 1.190625,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 1.190625,
+    "shank_len": 22.225,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 125.0,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 34491 23/64\" jobber drill 135deg HSS Bright - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "drill",
+    "diameter": 9.128125,
+    "corner_r": 0.0,
+    "tip_angle": 135.0,
+    "pitch": 0.0,
+    "flute_len": 44.45,
+    "shank_d": 9.128125,
+    "shank_len": 33.3375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 3487,
+    "feed": 174.3,
+    "tool_material": "hss",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 34958 1/16\" 3FL flat CrN LOC 1/8 OAL 1-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 1.5875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 3.175,
+    "shank_d": 3.175,
+    "shank_len": 34.925,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 450.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Tormach 35274 1/4\" 2FL 90deg drill mill TiAlN LOC 7/16 OAL 2-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "taper",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 11.1125,
+    "shank_d": 6.35,
+    "shank_len": 52.3875,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 10000,
+    "feed": 1200.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Tormach 35950 5/16\" 5FL CR .015 TiAlN LOC 13/16 OAL 2-1/2 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 7.9375,
+    "corner_r": 0.381,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 20.6375,
+    "shank_d": 7.9375,
+    "shank_len": 42.8625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 8020,
+    "feed": 2406.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Tormach 35967 1/2\" 5FL CR .12 TiAlN LOC 1 OAL 3 - acetal (Delrin/POM)",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 3.048,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "plastics_pom",
+    "rpm": 5012,
+    "feed": 2105.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  }
+ ]
+}

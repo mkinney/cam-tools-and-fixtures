@@ -1,0 +1,3447 @@
+{
+ "format": "camcraft-tools",
+ "version": 1,
+ "units": "mm",
+ "tools": [
+  {
+   "name": "Almar AM-2300-REV-2 1/4\" 4FL ball LOC 1-1/4 OAL 4",
+   "definition": {
+    "kind": "ball_nose",
+    "diameter": 6.35,
+    "corner_r": 3.175,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 6.35,
+    "shank_len": 69.85,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 20094 (5VX10003000J020) 1\" 5FL CR .02 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 25.4,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 25.4,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1409.4,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20093 (5VX10003000J000) 1\" 5FL flat AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 25.4,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1409.4,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 10003 (4VX01250500A000) 1/8\" 4FL flat AlTiN LOC 1/2 OAL 1-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 3.175,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 3.175,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10004 (4VX01250500A020) 1/8\" 4FL CR .02 AlTiN LOC 1/2 OAL 1-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 3.175,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 3.175,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10005 (4VX02500375B000) 1/4\" 4FL flat AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10006 (4VX02500375B020) 1/4\" 4FL CR .02 AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10007 (4VX02500375B030) 1/4\" 4FL CR .03 AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10008 (4VX02500500C000) 1/4\" 4FL flat AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10009 (4VX02500500C020) 1/4\" 4FL CR .02 AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10010 (4VX02500500C030) 1/4\" 4FL CR .03 AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10011 (4VX02500750C000) 1/4\" 4FL flat AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10012 (4VX02500750C020) 1/4\" 4FL CR .02 AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10013 (4VX02500750C030) 1/4\" 4FL CR .03 AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10017 (4VX03120812C000) 5/16\" 4FL flat AlTiN LOC 13/16 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 7.9375,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 20.6375,
+    "shank_d": 7.9375,
+    "shank_len": 42.8625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10018 (4VX03120812C020) 5/16\" 4FL CR .02 AlTiN LOC 13/16 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 7.9375,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 20.6375,
+    "shank_d": 7.9375,
+    "shank_len": 42.8625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10019 (4VX03120812C030) 5/16\" 4FL CR .03 AlTiN LOC 13/16 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 7.9375,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 20.6375,
+    "shank_d": 7.9375,
+    "shank_len": 42.8625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10020 (4VX03750625C000) 3/8\" 4FL flat AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10021 (4VX03750625C020) 3/8\" 4FL CR .02 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10022 (4VX03750625C030) 3/8\" 4FL CR .03 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10024 (4VX03751000C000) 3/8\" 4FL flat AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10025 (4VX03751000C020) 3/8\" 4FL CR .02 AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10026 (4VX03751000C030) 3/8\" 4FL CR .03 AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10028 (4VX03751250D000) 3/8\" 4FL flat AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10029 (4VX03751250D020) 3/8\" 4FL CR .02 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10030 (4VX03751250D030) 3/8\" 4FL CR .03 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10032 (4VX03752000F000) 3/8\" 4FL flat AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10033 (4VX03752000F020) 3/8\" 4FL CR .02 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10034 (4VX03752000F030) 3/8\" 4FL CR .03 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10036 (4VX05000625C000) 1/2\" 4FL flat AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10037 (4VX05000625C020) 1/2\" 4FL CR .02 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10038 (4VX05000625C030) 1/2\" 4FL CR .03 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10040 (4VX05001000D000) 1/2\" 4FL flat AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10041 (4VX05001000D020) 1/2\" 4FL CR .02 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10042 (4VX05001000D030) 1/2\" 4FL CR .03 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10044 (4VX05001250D000) 1/2\" 4FL flat AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10045 (4VX05001250D020) 1/2\" 4FL CR .02 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10046 (4VX05001250D030) 1/2\" 4FL CR .03 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10048 (4VX05002000F000) 1/2\" 4FL flat AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10049 (4VX05002000F020) 1/2\" 4FL CR .02 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10050 (4VX05002000F030) 1/2\" 4FL CR .03 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10052 (4VX06250750D000) 5/8\" 4FL flat AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10053 (4VX06250750D020) 5/8\" 4FL CR .02 AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10054 (4VX06250750D030) 5/8\" 4FL CR .03 AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10056 (4VX06251250E000) 5/8\" 4FL flat AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10057 (4VX06251250E020) 5/8\" 4FL CR .02 AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10058 (4VX06251250E030) 5/8\" 4FL CR .03 AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10060 (4VX06251625E000) 5/8\" 4FL flat AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10061 (4VX06251625E020) 5/8\" 4FL CR .02 AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10062 (4VX06251625E030) 5/8\" 4FL CR .03 AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1403.3,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10068 (4VX07501000D000) 3/4\" 4FL flat AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10069 (4VX07501000D020) 3/4\" 4FL CR .02 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10070 (4VX07501000D030) 3/4\" 4FL CR .03 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10074 (4VX07501500F000) 3/4\" 4FL flat AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10075 (4VX07501500F020) 3/4\" 4FL CR .02 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10076 (4VX07501500F030) 3/4\" 4FL CR .03 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10080 (4VX07502000H000) 3/4\" 4FL flat AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10081 (4VX07502000H020) 3/4\" 4FL CR .02 AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10082 (4VX07502000H030) 3/4\" 4FL CR .03 AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10086 (4VX07503000J000) 3/4\" 4FL flat AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10087 (4VX07503000J020) 3/4\" 4FL CR .02 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10088 (4VX07503000J030) 3/4\" 4FL CR .03 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10092 (4VX10001500F000) 1\" 4FL flat AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1127.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10093 (4VX10001500F020) 1\" 4FL CR .02 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 25.4,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1127.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10097 (4VX10003000J000) 1\" 4FL flat AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 25.4,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1127.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 10098 (4VX10003000J020) 1\" 4FL CR .02 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 25.4,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 25.4,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1127.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 20001 (5VX02500375B000) 1/4\" 5FL flat AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20002 (5VX02500375B020) 1/4\" 5FL CR .02 AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20003 (5VX02500375B030) 1/4\" 5FL CR .03 AlTiN LOC 3/8 OAL 2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 6.35,
+    "shank_len": 41.275,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20004 (5VX02500500C000) 1/4\" 5FL flat AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20005 (5VX02500500C020) 1/4\" 5FL CR .02 AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20006 (5VX02500500C030) 1/4\" 5FL CR .03 AlTiN LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20007 (5VX02500750C000) 1/4\" 5FL flat AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20008 (5VX02500750C020) 1/4\" 5FL CR .02 AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20009 (5VX02500750C030) 1/4\" 5FL CR .03 AlTiN LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 6.35,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2500.0,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20016 (5VX03750625C000) 3/8\" 5FL flat AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20017 (5VX03750625C020) 3/8\" 5FL CR .02 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20018 (5VX03750625C030) 3/8\" 5FL CR .03 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 9.525,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20020 (5VX03751000C000) 3/8\" 5FL flat AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20021 (5VX03751000C020) 3/8\" 5FL CR .02 AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20022 (5VX03751000C030) 3/8\" 5FL CR .03 AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20024 (5VX03751250D000) 3/8\" 5FL flat AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20025 (5VX03751250D020) 3/8\" 5FL CR .02 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20026 (5VX03751250D030) 3/8\" 5FL CR .03 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 9.525,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20028 (5VX03752000F000) 3/8\" 5FL flat AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20029 (5VX03752000F020) 3/8\" 5FL CR .02 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20030 (5VX03752000F030) 3/8\" 5FL CR .03 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2088.5,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20032 (5VX05000625C000) 1/2\" 5FL flat AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20033 (5VX05000625C020) 1/2\" 5FL CR .02 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20034 (5VX05000625C030) 1/2\" 5FL CR .03 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20036 (5VX05001000D000) 1/2\" 5FL flat AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20037 (5VX05001000D020) 1/2\" 5FL CR .02 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20038 (5VX05001000D030) 1/2\" 5FL CR .03 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20040 (5VX05001250D000) 1/2\" 5FL flat AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20041 (5VX05001250D020) 1/2\" 5FL CR .02 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20042 (5VX05001250D030) 1/2\" 5FL CR .03 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20044 (5VX05002000F000) 1/2\" 5FL flat AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20045 (5VX05002000F020) 1/2\" 5FL CR .02 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20046 (5VX05002000F030) 1/2\" 5FL CR .03 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2192.7,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20048 (5VX06250750D000) 5/8\" 5FL flat AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20049 (5VX06250750D020) 5/8\" 5FL CR .02 AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20050 (5VX06250750D030) 5/8\" 5FL CR .03 AlTiN LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20052 (5VX06251250E000) 5/8\" 5FL flat AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20053 (5VX06251250E020) 5/8\" 5FL CR .02 AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20054 (5VX06251250E030) 5/8\" 5FL CR .03 AlTiN LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20056 (5VX06251625E000) 5/8\" 5FL flat AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20057 (5VX06251625E020) 5/8\" 5FL CR .02 AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20058 (5VX06251625E030) 5/8\" 5FL CR .03 AlTiN LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 15.875,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20064 (5VX07501000D000) 3/4\" 5FL flat AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20065 (5VX07501000D020) 3/4\" 5FL CR .02 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20066 (5VX07501000D030) 3/4\" 5FL CR .03 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20070 (5VX07501500F000) 3/4\" 5FL flat AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20071 (5VX07501500F020) 3/4\" 5FL CR .02 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20072 (5VX07501500F030) 3/4\" 5FL CR .03 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 19.05,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20076 (5VX07502000H000) 3/4\" 5FL flat AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20077 (5VX07502000H020) 3/4\" 5FL CR .02 AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20078 (5VX07502000H030) 3/4\" 5FL CR .03 AlTiN LOC 2 OAL 5",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20082 (5VX07503000J000) 3/4\" 5FL flat AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20083 (5VX07503000J020) 3/4\" 5FL CR .02 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20084 (5VX07503000J030) 3/4\" 5FL CR .03 AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1461.9,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20088 (5VX10001500F000) 1\" 5FL flat AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1409.4,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 20089 (5VX10001500F020) 1\" 5FL CR .02 AlTiN LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 25.4,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1409.4,
+    "tool_material": "carbide",
+    "flutes": 5
+   }
+  },
+  {
+   "name": "Almar 30005 (6VX03751000C000) 3/8\" 6FL flat AlTiN LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2506.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30015 (6VX03752000F030) 3/8\" 6FL CR .03 AlTiN LOC 2 OAL 4",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 9.525,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 2506.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30018 (6VX05000625C020) 1/2\" 6FL CR .02 AlTiN LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2631.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30021 (6VX05001000D000) 1/2\" 6FL flat AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2631.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30022 (6VX05001000D020) 1/2\" 6FL CR .02 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.508,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2631.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30023 (6VX05001000D030) 1/2\" 6FL CR .03 AlTiN LOC 1 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2631.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30027 (6VX05001250D030) 1/2\" 6FL CR .03 AlTiN LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.762,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 2631.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 30078 (6VX10003000J000) 1\" 6FL flat AlTiN LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 25.4,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 1691.2,
+    "tool_material": "carbide",
+    "flutes": 6
+   }
+  },
+  {
+   "name": "Almar 40040 (4DF0375C090P) 3/8\" 4FL 90deg chamfer AlTiN DE OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 4.7625,
+    "shank_d": 9.525,
+    "shank_len": 58.7375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40041 (4DF0500D090P) 1/2\" 4FL 90deg chamfer AlTiN DE OAL 3",
+   "definition": {
+    "kind": "taper",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 6.35,
+    "shank_d": 12.7,
+    "shank_len": 69.85,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40042 (4DF0750F090P) 3/4\" 4FL 90deg chamfer AlTiN DE OAL 4",
+   "definition": {
+    "kind": "taper",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 9.525,
+    "shank_d": 19.05,
+    "shank_len": 92.075,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 1169.5,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40030 (4SF0375C090P) 3/8\" 4FL 90deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 4.7625,
+    "shank_d": 9.525,
+    "shank_len": 58.7375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1670.8,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40031 (4SF0500D090P) 1/2\" 4FL 90deg chamfer AlTiN OAL 3",
+   "definition": {
+    "kind": "taper",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 6.35,
+    "shank_d": 12.7,
+    "shank_len": 69.85,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1754.2,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40029 (4SF0250C090P) 1/4\" 4FL 90deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 3.175,
+    "shank_d": 6.35,
+    "shank_len": 60.325,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 2000.0,
+    "tool_material": "carbide",
+    "flutes": 4
+   }
+  },
+  {
+   "name": "Almar 40010 (2SC0250C090P) 1/4\" 2FL 90deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 3.175,
+    "shank_d": 6.35,
+    "shank_len": 60.325,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1000.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40011 (2SC0375C090P) 3/8\" 2FL 90deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 4.7625,
+    "shank_d": 9.525,
+    "shank_len": 58.7375,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 835.4,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40007 (2SC0500D082P) 1/2\" 2FL 82deg chamfer AlTiN OAL 3",
+   "definition": {
+    "kind": "taper",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 82.0,
+    "pitch": 0.0,
+    "flute_len": 7.304839,
+    "shank_d": 12.7,
+    "shank_len": 68.895161,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40008 (2SC0125A090P) 1/8\" 2FL 90deg chamfer AlTiN OAL 1-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 3.175,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 1.5875,
+    "shank_d": 3.175,
+    "shank_len": 36.5125,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 500.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40009 (2SC0312B090P) 3/16\" 2FL 90deg chamfer AlTiN OAL 2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 4.7625,
+    "corner_r": 0.0,
+    "tip_angle": 90.0,
+    "pitch": 0.0,
+    "flute_len": 2.38125,
+    "shank_d": 4.7625,
+    "shank_len": 48.41875,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 500.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40005 (2SC0250C082P) 1/4\" 2FL 82deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 82.0,
+    "pitch": 0.0,
+    "flute_len": 3.65242,
+    "shank_d": 6.35,
+    "shank_len": 59.84758,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1000.0,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 40006 (2SC0375C082P) 3/8\" 2FL 82deg chamfer AlTiN OAL 2-1/2",
+   "definition": {
+    "kind": "taper",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 82.0,
+    "pitch": 0.0,
+    "flute_len": 5.47863,
+    "shank_d": 9.525,
+    "shank_len": 58.02137,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 835.4,
+    "tool_material": "carbide",
+    "flutes": 2
+   }
+  },
+  {
+   "name": "Almar 50080 (3AX10002500H000) 1\" 3FL flat LOC 2-1/2 OAL 5",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 63.5,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 845.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50073 (3AX07503000J015) 3/4\" 3FL CR .015 LOC 3 OAL 6",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.381,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50076 (3AX10001500F000) 1\" 3FL flat LOC 1-1/2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 25.4,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 25.4,
+    "shank_len": 63.5,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 3132,
+    "feed": 845.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50068 (3AX07502000H000) 3/4\" 3FL flat LOC 2 OAL 5",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50069 (3AX07502000H015) 3/4\" 3FL CR .015 LOC 2 OAL 5",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 19.05,
+    "corner_r": 0.381,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50072 (3AX07503000J000) 3/4\" 3FL flat LOC 3 OAL 6",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 76.2,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50061 (3AX07501000F000) 3/4\" 3FL flat LOC 1 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 19.05,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50064 (3AX07501625F000) 3/4\" 3FL flat LOC 1-5/8 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 19.05,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 19.05,
+    "shank_len": 60.325,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 4177,
+    "feed": 877.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50055 (3AX06251625E000) 5/8\" 3FL flat LOC 1-5/8 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 41.275,
+    "shank_d": 15.875,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1052.5,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50058 (3AX06252000H000) 5/8\" 3FL flat LOC 2 OAL 5",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 15.875,
+    "shank_len": 76.2,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1052.5,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50049 (3AX06250750D000) 5/8\" 3FL flat LOC 3/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1052.5,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50052 (3AX06251250E000) 5/8\" 3FL flat LOC 1-1/4 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 15.875,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 15.875,
+    "shank_len": 57.15,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 5012,
+    "feed": 1052.5,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50041 (3AX05001500E000) 1/2\" 3FL flat LOC 1-1/2 OAL 3-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50045 (3AX05002000F000) 1/2\" 3FL flat LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50038 (3AX05001250D000) 1/2\" 3FL flat LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50039 (3AX05001250D015) 1/2\" 3FL CR .015 LOC 1-1/4 OAL 3",
+   "definition": {
+    "kind": "bull_nose",
+    "diameter": 12.7,
+    "corner_r": 0.381,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 31.75,
+    "shank_d": 12.7,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50032 (3AX05000625C000) 1/2\" 3FL flat LOC 5/8 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 15.875,
+    "shank_d": 12.7,
+    "shank_len": 47.625,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50035 (3AX05000625D000) 1/2\" 3FL flat LOC 1 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 12.7,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 12.7,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 6265,
+    "feed": 1315.6,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50023 (3AX03751000C000) 3/8\" 3FL flat LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1253.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50026 (3AX03751500D000) 3/8\" 3FL flat LOC 1-1/2 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 9.525,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1253.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50029 (3AX03752000F000) 3/8\" 3FL flat LOC 2 OAL 4",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 50.8,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1253.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50017 (3AX03120750C000) 5/16\" 3FL flat LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 7.9375,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 7.9375,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1500.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50020 (3AX03750500C000) 3/8\" 3FL flat LOC 1/2 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 9.525,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 9.525,
+    "shank_len": 50.8,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 8354,
+    "feed": 1253.1,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50011 (3AX02501000C000) 1/4\" 3FL flat LOC 1 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 25.4,
+    "shank_d": 6.35,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1500.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50014 (3AX02501500D000) 1/4\" 3FL flat LOC 1-1/2 OAL 3",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 38.1,
+    "shank_d": 6.35,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1500.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50005 (3AX02500500B000) 1/4\" 3FL flat LOC 1/2 OAL 2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 6.35,
+    "shank_len": 38.1,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1500.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50008 (3AX02500750C000) 1/4\" 3FL flat LOC 3/4 OAL 2-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 6.35,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 19.05,
+    "shank_d": 6.35,
+    "shank_len": 44.45,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 1500.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50001 (3AX01250250A000) 1/8\" 3FL flat LOC 1/4 OAL 1-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 3.175,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 6.35,
+    "shank_d": 3.175,
+    "shank_len": 31.75,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 750.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  },
+  {
+   "name": "Almar 50003 (3AX01250500A000) 1/8\" 3FL flat LOC 1/2 OAL 1-1/2",
+   "definition": {
+    "kind": "end_mill",
+    "diameter": 3.175,
+    "corner_r": 0.0,
+    "tip_angle": 0.0,
+    "pitch": 0.0,
+    "flute_len": 12.7,
+    "shank_d": 3.175,
+    "shank_len": 25.4,
+    "holder_d": 0.0,
+    "holder_len": 0.0,
+    "material_group": "aluminium_6061",
+    "rpm": 10000,
+    "feed": 750.0,
+    "tool_material": "carbide",
+    "flutes": 3
+   }
+  }
+ ]
+}
