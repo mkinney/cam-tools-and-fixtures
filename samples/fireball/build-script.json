@@ -1,0 +1,554 @@
+{
+ "commands": [
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCH3624_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCH3624_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     457.1999999999999,
+     0,
+     1,
+     0,
+     -1066.8000000000002,
+     0,
+     0,
+     1,
+     1.8663617219005668e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCH5430_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCH5430_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     2000.2000000000003,
+     0,
+     1,
+     0,
+     -990.6000000000001,
+     0,
+     0,
+     1,
+     2.3329521523757077e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCG5430_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCG5430_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     3771.7999999999997,
+     0,
+     1,
+     0,
+     -990.6000000000001,
+     0,
+     0,
+     1,
+     2.3329521523757077e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCG5454_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCG5454_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     5543.400000000001,
+     0,
+     1,
+     0,
+     -685.8000000000001,
+     0,
+     0,
+     1,
+     4.199313874276274e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCH5454_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCH5454_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     685.8000000000002,
+     0,
+     1,
+     0,
+     -3067.0,
+     0,
+     0,
+     1,
+     4.199313874276275e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCG7878_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCG7878_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     2762.2,
+     0,
+     1,
+     0,
+     -2762.2000000000003,
+     0,
+     0,
+     1,
+     6.065675596176841e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCG7854_Simplified.STEP",
+    "up": "y",
+    "name": "FA75-TCG7854_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     5143.400000000001,
+     0,
+     1,
+     0,
+     -3067.0000000000005,
+     0,
+     0,
+     1,
+     4.1993138742762754e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/tables/FA75-TCG102_Simplified(1).STEP",
+    "up": "y",
+    "name": "FA75-TCG102_Simplified",
+    "matrix": [
+     1,
+     0,
+     0,
+     7829.4,
+     0,
+     1,
+     0,
+     -3067.0,
+     0,
+     0,
+     1,
+     4.199313874276274e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-CTB144_SIMPLIFIED.STEP",
+    "up": "y",
+    "name": "FA75-CTB144_SIMPLIFIED",
+    "matrix": [
+     1,
+     0,
+     0,
+     1935.1,
+     0,
+     1,
+     0,
+     -1935.1,
+     0,
+     0,
+     1,
+     381.0000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-CTB2858_SIMPLIFIED.STEP",
+    "up": "y",
+    "name": "FA75-CTB2858_SIMPLIFIED",
+    "matrix": [
+     1,
+     0,
+     0,
+     2454.2,
+     0,
+     1,
+     0,
+     -1935.1,
+     0,
+     0,
+     1,
+     304.8000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBH612.STEP",
+    "up": "y",
+    "name": "FA75-MBH612",
+    "matrix": [
+     1,
+     0,
+     0,
+     2922.5,
+     0,
+     1,
+     0,
+     -1947.8,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBH644.STEP",
+    "up": "y",
+    "name": "FA75-MBH644",
+    "matrix": [
+     1,
+     0,
+     0,
+     3047.9,
+     0,
+     1,
+     0,
+     -1947.8,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBH641.STEP",
+    "up": "y",
+    "name": "FA75-MBH641",
+    "matrix": [
+     1,
+     0,
+     0,
+     3173.3,
+     0,
+     1,
+     0,
+     -1947.8,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBV130.STEP",
+    "up": "y",
+    "name": "FA75-MBV130",
+    "matrix": [
+     1,
+     0,
+     0,
+     3298.7000000000003,
+     0,
+     1,
+     0,
+     -2036.7000000000003,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-SBS620.STEP",
+    "up": "y",
+    "name": "FA75-SBS620",
+    "matrix": [
+     1,
+     0,
+     0,
+     3424.1000000000004,
+     0,
+     1,
+     0,
+     -1947.8,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-VBK100(1).STEP",
+    "up": "y",
+    "name": "FA75-VBK100",
+    "matrix": [
+     1,
+     0,
+     0,
+     3562.2000000000007,
+     0,
+     1,
+     0,
+     -1896.9999999999998,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBV302.STEP",
+    "up": "y",
+    "name": "FA75-MBV302",
+    "matrix": [
+     1,
+     0,
+     0,
+     1884.3,
+     0,
+     1,
+     0,
+     -2339.9,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-MBV605.STEP",
+    "up": "y",
+    "name": "FA75-MBV605",
+    "matrix": [
+     1,
+     0,
+     0,
+     2009.7,
+     0,
+     1,
+     0,
+     -2378.0000000000005,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-SBS420.STEP",
+    "up": "y",
+    "name": "FA75-SBS420",
+    "matrix": [
+     1,
+     0,
+     0,
+     2135.1,
+     0,
+     1,
+     0,
+     -2352.6,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-SBS120.STEP",
+    "up": "y",
+    "name": "FA75-SBS120",
+    "matrix": [
+     1,
+     0,
+     0,
+     2260.5,
+     0,
+     1,
+     0,
+     -2314.5000000000005,
+     0,
+     0,
+     1,
+     228.60000000000014
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-TBM821(1).STEP",
+    "up": "y",
+    "name": "FA75-TBM821",
+    "matrix": [
+     1,
+     0,
+     0,
+     2398.6000000000004,
+     0,
+     1,
+     0,
+     -2403.4,
+     0,
+     0,
+     1,
+     215.90000000000015
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-SBS410.STEP",
+    "up": "y",
+    "name": "FA75-SBS410",
+    "matrix": [
+     1,
+     0,
+     0,
+     2536.7000000000003,
+     0,
+     1,
+     0,
+     -2352.6,
+     0,
+     0,
+     1,
+     215.90000000000015
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-TBM521.STEP",
+    "up": "y",
+    "name": "FA75-TBM521",
+    "matrix": [
+     1,
+     0,
+     0,
+     2674.8000000000006,
+     0,
+     1,
+     0,
+     -2365.3,
+     0,
+     0,
+     1,
+     215.90000000000015
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-TBW102-8.STEP",
+    "up": "y",
+    "name": "FA75-TBW102-8",
+    "matrix": [
+     1,
+     0,
+     0,
+     2812.9000000000005,
+     0,
+     1,
+     0,
+     -2327.2000000000003,
+     0,
+     0,
+     1,
+     207.96250000000012
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/fireball/step/blocks/FA75-TBW302-8.STEP",
+    "up": "y",
+    "name": "FA75-TBW302-8",
+    "matrix": [
+     1,
+     0,
+     0,
+     2951.000000000001,
+     0,
+     1,
+     0,
+     -2339.9,
+     0,
+     0,
+     1,
+     206.56550000000013
+    ]
+   }
+  }
+ ]
+}
