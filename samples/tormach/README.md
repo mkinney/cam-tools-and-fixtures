@@ -29,4 +29,4 @@ The files are in `tools/` on the `main` branch, in CamCraft's tool library forma
 ## What would make this better (for Tormach, if interested)
 
 - An official, machine-readable tool data file: part numbers, geometry, and holder stick-out for TTS and BT30.
-- Permission to publish Tormach's STEP models of tools, holders, the Gen3/TTS accessories and machine envelopes (770MX, 1100MX, 1500MX, 24R) as CamCraft fixture and machine files. Today these are fetched from Tormach's site and never rehosted.
+- Official download links for STEP models of the tools, TTS/BT30 holders and machine envelopes (770MX, 1100MX, 1500MX, 24R), and permission to turn them into CamCraft tool, fixture and machine files. None of them are in this repository today.
