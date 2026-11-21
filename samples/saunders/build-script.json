@@ -1,0 +1,2566 @@
+{
+ "commands": [
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-9_Fixture_Plate_Set.step",
+    "name": "Haas_VF-9_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     1152.5249999999999,
+     0,
+     1,
+     0,
+     -482.60000000000014,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/VF-8_Fixture_Plate_Set.step",
+    "name": "VF-8_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     3369.3992,
+     0,
+     1,
+     0,
+     -482.599999999999,
+     0,
+     0,
+     1,
+     -2.8421709430403947e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/AVID_Benchtop-2x2_26x12.step",
+    "name": "AVID_Benchtop-2x2_26x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     5158.7992,
+     0,
+     1,
+     0,
+     -6.000000000003524,
+     0,
+     0,
+     1,
+     50.000000000044054
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_1100_12x34Alu.step",
+    "name": "Tormach_1100_12x34Alu",
+    "matrix": [
+     1,
+     0,
+     0,
+     5511.706665420001,
+     0,
+     0,
+     -1,
+     -1.821999999999889,
+     0,
+     1,
+     0,
+     63.12180583399996
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-7_Fixture_Plate_Set.step",
+    "name": "Haas_VF-7_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     5929.567539951754,
+     0,
+     1,
+     0,
+     989.3528597318399,
+     0,
+     0,
+     1,
+     -592.7445601291815
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-6_Rev4.step",
+    "name": "Haas_VF-6_Rev4",
+    "matrix": [
+     1,
+     0,
+     0,
+     915.9987201513468,
+     0,
+     1,
+     0,
+     -1521.599999999972,
+     0,
+     0,
+     1,
+     1.1152577759984181e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Doosan_DNM_6700_Fixture_Plate_Set.step",
+    "name": "Doosan_DNM_6700_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     2815.4349403026886,
+     0,
+     1,
+     0,
+     -1500.9995799999706,
+     0,
+     0,
+     1,
+     -50.799999999999855
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/MR-1_Fixture_Plate_Set.step",
+    "name": "MR-1_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     4119.547440302686,
+     0,
+     1,
+     0,
+     -1496.2000000000014,
+     0,
+     0,
+     1,
+     2.0605739337042918e-12
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/AVID_PRO4824_26x12.step",
+    "name": "AVID_PRO4824_26x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     4726.747440302687,
+     0,
+     1,
+     0,
+     -1496.200000000001,
+     0,
+     0,
+     1,
+     24.13000000000049
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/HDM_Set_Rev2.step",
+    "name": "HDM_Set_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     5416.131840723284,
+     0,
+     1,
+     0,
+     -1151.4859618709697,
+     0,
+     0,
+     1,
+     9.033437069794541
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Okuma_M660-V_Rev1.step",
+    "name": "Okuma_M660-V_Rev1",
+    "matrix": [
+     1,
+     0,
+     0,
+     6719.818120151352,
+     0,
+     1,
+     0,
+     -1496.2000000000007,
+     0,
+     0,
+     1,
+     -50.79999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_24R_Fixture_Plate_Set_Rev2.step",
+    "name": "Tormach_24R_Fixture_Plate_Set_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     8157.417646893471,
+     0,
+     1,
+     0,
+     -1480.6071859568747,
+     0,
+     0,
+     1,
+     -582.1777072162623
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-4_Rev3.step",
+    "name": "Haas_VF-4_Rev3",
+    "matrix": [
+     1,
+     0,
+     0,
+     1347.7240000000002,
+     0,
+     1,
+     0,
+     -1428.8825895759992,
+     0,
+     0,
+     1,
+     -440.3648799999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-3YT_VF-5_Rev4.step",
+    "name": "Haas_VF-3YT_VF-5_Rev4",
+    "matrix": [
+     1,
+     0,
+     0,
+     2272.903524877579,
+     0,
+     1,
+     0,
+     -2319.3000000000015,
+     0,
+     0,
+     1,
+     3.732723443801124e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VM-3_Rev3.step",
+    "name": "Haas_VM-3_Rev3",
+    "matrix": [
+     1,
+     0,
+     0,
+     3840.125000000001,
+     0,
+     1,
+     0,
+     -2407.862887351436,
+     0,
+     0,
+     1,
+     -70.36288706013356
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VMX42i_Fixture_Plate_Set.step",
+    "name": "Hurco_VMX42i_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     5406.174708203198,
+     0,
+     1,
+     0,
+     -2332.0006100000014,
+     0,
+     0,
+     1,
+     -105.00000000001002
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Doosan_DNM_5700_Rev2.step",
+    "name": "Doosan_DNM_5700_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     6447.273990698579,
+     0,
+     1,
+     0,
+     -2312.1999734970013,
+     0,
+     0,
+     1,
+     659.9999389650006
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Okuma_M560-V_Rev3.step",
+    "name": "Okuma_M560-V_Rev3",
+    "matrix": [
+     1,
+     0,
+     0,
+     708.0250000000003,
+     0,
+     1,
+     0,
+     -3050.800000000001,
+     0,
+     0,
+     1,
+     -149.47039999999896
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/AVID_2436_25x40.step",
+    "name": "AVID_2436_25x40",
+    "matrix": [
+     1,
+     0,
+     0,
+     2097.654752978063,
+     0,
+     1,
+     0,
+     -1489.6607420904986,
+     0,
+     0,
+     1,
+     -91.54999999997821
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VM-2_40x20.step",
+    "name": "Haas_VM-2_40x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     3054.5029999999897,
+     0,
+     1,
+     0,
+     -3015.400000000003,
+     0,
+     0,
+     1,
+     171.24679818699803
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_DC-2_Fixture_Plate_Set.step",
+    "name": "Haas_DC-2_Fixture_Plate_Set",
+    "matrix": [
+     1,
+     0,
+     0,
+     4555.656209848664,
+     0,
+     1,
+     0,
+     -3036.800000000003,
+     0,
+     0,
+     1,
+     2.193881948322422e-12
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1112_Brother_Speedio_S1000_CAD_Master.step",
+    "name": "S1112_Brother_Speedio_S1000_CAD_Master",
+    "matrix": [
+     1,
+     0,
+     0,
+     5861.356000000003,
+     0,
+     1,
+     0,
+     -3040.800000000002,
+     0,
+     0,
+     1,
+     24.13000000000018
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SYIL_X9_Fixture_Plate.step",
+    "name": "SYIL_X9_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     7027.356000000003,
+     0,
+     1,
+     0,
+     -3036.800000000002,
+     0,
+     0,
+     1,
+     7.776496046004475e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_TM-3_40x20.step",
+    "name": "Haas_TM-3_40x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     733.425,
+     0,
+     1,
+     0,
+     -3870.2500000000023,
+     0,
+     0,
+     1,
+     20.320000000000164
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Smart_SM1050.step",
+    "name": "Smart_SM1050",
+    "matrix": [
+     1,
+     0,
+     0,
+     2124.85,
+     0,
+     1,
+     0,
+     -3800.400000000002,
+     0,
+     0,
+     1,
+     -25.399999999999995
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-2YT_Fixture_Plate_Solid_Model.step",
+    "name": "Haas_VF-2YT_Fixture_Plate_Solid_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     3290.8499999999835,
+     0,
+     1,
+     0,
+     -3775.0000000000005,
+     0,
+     0,
+     1,
+     0.7619981869845864
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Milltronics_VM3018_Fixture_Plate.step",
+    "name": "Milltronics_VM3018_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     4456.850000000001,
+     0,
+     1,
+     0,
+     -3775.000000000002,
+     0,
+     0,
+     1,
+     -63.49999999999998
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Okuma_M460-VE_Fixture_Plate.step",
+    "name": "Okuma_M460-VE_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     5622.850000000001,
+     0,
+     1,
+     0,
+     -3776.400000000002,
+     0,
+     0,
+     1,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Brother_Speedio_S500_Fixture_Plate.step",
+    "name": "Brother_Speedio_S500_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     6611.050000000001,
+     0,
+     1,
+     0,
+     -3771.4008226814562,
+     0,
+     0,
+     1,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Doosan_DNM4500_40x16.step",
+    "name": "Doosan_DNM4500_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     7599.250000000001,
+     0,
+     1,
+     0,
+     -3771.400000000002,
+     0,
+     0,
+     1,
+     -25.00000000000007
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/FADAL_VMC-4020_40x20.step",
+    "name": "FADAL_VMC-4020_40x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     508.0000000000001,
+     0,
+     1,
+     0,
+     -4458.400000000002,
+     0,
+     0,
+     1,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_DM-DT-1_26x20.step",
+    "name": "Haas_DM-DT-1_26x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     1496.2000000000003,
+     0,
+     0,
+     -1,
+     -4433.000000000003,
+     0,
+     1,
+     0,
+     3.8100000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-1_26x20.step",
+    "name": "Haas_VF-1_26x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     2306.6000000000004,
+     0,
+     1,
+     0,
+     -4407.69525,
+     0,
+     0,
+     1,
+     3.809999999997499
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VM10i_40x20.step",
+    "name": "Hurco_VM10i_40x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     2913.8,
+     0,
+     1,
+     0,
+     -4407.600000000002,
+     0,
+     0,
+     1,
+     7.271960811294787e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VM20i_Rev2.step",
+    "name": "Hurco_VM20i_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     4460.8,
+     0,
+     1,
+     0,
+     -4458.400000000002,
+     0,
+     0,
+     1,
+     2.540000000000017
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Langmuir_MR-1_20x6.step",
+    "name": "Langmuir_MR-1_20x6",
+    "matrix": [
+     1,
+     0,
+     0,
+     5397.565000000001,
+     0,
+     1,
+     0,
+     -4458.400000000002,
+     0,
+     0,
+     1,
+     -17.761999999998856
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Brother_S700_Fixture_Plate.step",
+    "name": "Brother_S700_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     5864.43,
+     0,
+     1,
+     0,
+     -4429.400000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S2126_S2127_Haas_DC-1_Fixture_Plate.step",
+    "name": "S2126_S2127_Haas_DC-1_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     6903.43,
+     0,
+     1,
+     0,
+     -4427.100000000003,
+     0,
+     0,
+     1,
+     1.2718159858593467e-12
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VMX24i_Fixture_Plate.step",
+    "name": "Hurco_VMX24i_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     7942.43,
+     0,
+     0,
+     -1,
+     -4458.40000613599,
+     0,
+     1,
+     0,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-3_Fixture_Plate.step",
+    "name": "Haas_VF-3_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     539.7500000000008,
+     0,
+     1,
+     0,
+     -5111.439279999752,
+     0,
+     0,
+     1,
+     1.1901590823981678e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VM5i_Rev2.step",
+    "name": "Hurco_VM5i_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     1470.8000000000002,
+     0,
+     1,
+     0,
+     -5040.200000000003,
+     0,
+     0,
+     1,
+     -48.259999999999984
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Milltronics_TRM3016_Fixture_Plate.step",
+    "name": "Milltronics_TRM3016_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     2433.6000000000004,
+     0,
+     1,
+     0,
+     -5065.600000000005,
+     0,
+     0,
+     1,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_1100_40x16.step",
+    "name": "Tormach_1100_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     3598.0125000000016,
+     0,
+     0,
+     -1,
+     -5065.600000000002,
+     0,
+     1,
+     0,
+     2.5400000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VM10i_Fixture_Plate.step",
+    "name": "Hurco_VM10i_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     4698.925000000001,
+     0,
+     1,
+     0,
+     -5065.599510000003,
+     0,
+     0,
+     1,
+     -44.99999999999996
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/FADAL_VMC15_Fixture_Plate.step",
+    "name": "FADAL_VMC15_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     5731.130500000002,
+     0,
+     0,
+     -1,
+     -5065.600000000003,
+     0,
+     1,
+     0,
+     1.3635298659154564e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/FANUC_Long_Bed_Fixture_Plate.step",
+    "name": "FANUC_Long_Bed_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     6776.925000000001,
+     0,
+     1,
+     0,
+     -5065.600410000003,
+     0,
+     0,
+     1,
+     -803.0000000000008
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Mini-Mill-2_40x16.step",
+    "name": "Haas_Mini-Mill-2_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     7879.425000000001,
+     0,
+     1,
+     0,
+     -5040.200000000003,
+     0,
+     0,
+     1,
+     8.765536032907833e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Mini-Mill_40x16.step",
+    "name": "Haas_Mini-Mill_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     25.400000000000002,
+     0,
+     1,
+     0,
+     -5925.022000000003,
+     0,
+     0,
+     1,
+     1.1102230246251561e-15
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Pocket_Mill_Fixture_Plate.step",
+    "name": "Haas_Pocket_Mill_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     1609.23,
+     0,
+     1,
+     0,
+     -5721.822000000003,
+     0,
+     0,
+     1,
+     1.6710332123174996e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_1500MX_Rev2.step",
+    "name": "Tormach_1500MX_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     2649.5,
+     0,
+     1,
+     0,
+     -5726.267484468067,
+     0,
+     0,
+     1,
+     -34.42852158109923
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/FADAL_VMC-3016_40x20.step",
+    "name": "FADAL_VMC-3016_40x20",
+    "matrix": [
+     1,
+     0,
+     0,
+     3752.0,
+     0,
+     1,
+     0,
+     -5721.822000000002,
+     0,
+     0,
+     1,
+     -74.92999999999991
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_DM-2_40x16.step",
+    "name": "Haas_DM-2_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     4918.0,
+     0,
+     0,
+     -1,
+     -5721.822000000002,
+     0,
+     1,
+     0,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_TM-0_40x16.step",
+    "name": "Haas_TM-0_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     6084.0,
+     0,
+     0,
+     -1,
+     -5721.822000000002,
+     0,
+     1,
+     0,
+     2.5400000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_VF-2_40x16.step",
+    "name": "Haas_VF-2_40x16",
+    "matrix": [
+     1,
+     0,
+     0,
+     6767.4,
+     0,
+     1,
+     0,
+     -5925.022000000002,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Hurco_VM_One_Solid_Model.step",
+    "name": "Hurco_VM_One_Solid_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     8352.5,
+     0,
+     1,
+     0,
+     -5719.282000000002,
+     0,
+     0,
+     1,
+     8.004885643231316e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/TM-1_TM-2_CAD_Master_Rev2.step",
+    "name": "TM-1_TM-2_CAD_Master_Rev2",
+    "matrix": [
+     1,
+     0,
+     0,
+     508.0,
+     0,
+     1,
+     0,
+     -6278.2220000000025,
+     0,
+     0,
+     1,
+     2.9254376698872794e-15
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/TRAK_VMC2_Fixture_Plate.step",
+    "name": "TRAK_VMC2_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     1403.6000000000001,
+     0,
+     1,
+     0,
+     -6275.022000000003,
+     0,
+     0,
+     1,
+     -50.79999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_UMC-500_14x9.step",
+    "name": "Haas_UMC-500_14x9",
+    "matrix": [
+     1,
+     0,
+     0,
+     1707.230038582442,
+     0,
+     1,
+     0,
+     -5720.417281826425,
+     0,
+     0,
+     1,
+     -219.07500000006965
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/14x6_96mm_Pallet_Solid_Model.step",
+    "name": "14x6_96mm_Pallet_Solid_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     2245.365,
+     0,
+     1,
+     0,
+     -6248.059500000002,
+     0,
+     0,
+     1,
+     6.3500000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Precision_Matthews_PM30_34x12.step",
+    "name": "Precision_Matthews_PM30_34x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     2571.5692918511854,
+     0,
+     1,
+     0,
+     -6325.60862786659,
+     0,
+     0,
+     1,
+     20.32000000000003
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_CM-1_20x12.step",
+    "name": "Haas_CM-1_20x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     3791.7884290393285,
+     0,
+     0,
+     -1,
+     -5794.961068744505,
+     0,
+     1,
+     0,
+     -177.6622351800158
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SYIL_X5_Fixture_Tooling_Plate.step",
+    "name": "SYIL_X5_Fixture_Tooling_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     4447.329999999998,
+     0,
+     1,
+     0,
+     -6205.022000000003,
+     0,
+     0,
+     1,
+     -76.19999999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_770_34x12.step",
+    "name": "Tormach_770_34x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     5333.9299999999985,
+     0,
+     1,
+     0,
+     -6227.422000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Universal-Subplate.step",
+    "name": "Haas_Universal-Subplate",
+    "matrix": [
+     1,
+     0,
+     0,
+     5984.689999999999,
+     0,
+     0,
+     -1,
+     -6227.369564168395,
+     0,
+     1,
+     0,
+     -0.6350000000000023
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Universal_Knee_Mill_Set_CAD_Master.step",
+    "name": "Universal_Knee_Mill_Set_CAD_Master",
+    "matrix": [
+     1,
+     0,
+     0,
+     7113.429999999998,
+     0,
+     1,
+     0,
+     -6287.3402133807995,
+     0,
+     0,
+     1,
+     -44.00243824335968
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/TRAK_Universal_Plate.step",
+    "name": "TRAK_Universal_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     8342.929999999997,
+     0,
+     1,
+     0,
+     -6226.787000000003,
+     0,
+     0,
+     1,
+     8.407033128097096e-29
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SYIL_X7_34x12.step",
+    "name": "SYIL_X7_34x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     431.8,
+     0,
+     1,
+     0,
+     -6767.772980000334,
+     0,
+     0,
+     1,
+     2.5400000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Precision_Mathews_PM45_34x12.step",
+    "name": "Precision_Mathews_PM45_34x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     1445.4,
+     0,
+     0,
+     -1,
+     -6783.187000000002,
+     0,
+     1,
+     0,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Precision_Matthews_PM-833_34x12.step",
+    "name": "Precision_Matthews_PM-833_34x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     2459.0,
+     0,
+     0,
+     -1,
+     -6783.187000000002,
+     0,
+     1,
+     0,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Shapeoko_5.step",
+    "name": "Shapeoko_5",
+    "matrix": [
+     1,
+     0,
+     0,
+     3348.549200000001,
+     0,
+     1,
+     0,
+     -6795.353847693443,
+     0,
+     0,
+     1,
+     11.325806296960739
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_770_26x12.step",
+    "name": "Tormach_770_26x12",
+    "matrix": [
+     1,
+     0,
+     0,
+     4466.298400000001,
+     0,
+     0,
+     -1,
+     -6642.852000000002,
+     0,
+     1,
+     0,
+     -77.00009999999997
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SMW_Bank-Pallet_12x8.step",
+    "name": "SMW_Bank-Pallet_12x8",
+    "matrix": [
+     1,
+     0,
+     0,
+     4717.663400000001,
+     0,
+     1,
+     0,
+     -6783.187000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SMW_Fixture-Pallet_12x8.step",
+    "name": "SMW_Fixture-Pallet_12x8",
+    "matrix": [
+     1,
+     0,
+     0,
+     5069.6033588320015,
+     0,
+     1,
+     0,
+     -6783.187000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1356_Shapeoko_4_INCH.step",
+    "name": "S1356_Shapeoko_4_INCH",
+    "matrix": [
+     1,
+     0,
+     0,
+     5470.558400000002,
+     0,
+     1,
+     0,
+     -6781.422000000002,
+     0,
+     0,
+     1,
+     3.4214150686647874e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1366_Shapeoko_4_METRIC.step",
+    "name": "S1366_Shapeoko_4_METRIC",
+    "matrix": [
+     1,
+     0,
+     0,
+     5920.558400000002,
+     0,
+     1,
+     0,
+     -6781.422000000002,
+     0,
+     0,
+     1,
+     3.330669073875479e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Universal_Plates.step",
+    "name": "Universal_Plates",
+    "matrix": [
+     1,
+     0,
+     0,
+     6473.9234000000015,
+     0,
+     1,
+     0,
+     -6781.422000000002,
+     0,
+     0,
+     1,
+     7.180597180399519e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SMW_RapidTurn_Subplate.step",
+    "name": "SMW_RapidTurn_Subplate",
+    "matrix": [
+     1,
+     0,
+     0,
+     6971.903400000001,
+     0,
+     1,
+     0,
+     -6761.376020000002,
+     0,
+     0,
+     1,
+     14.605000000000011
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Dual_Station_Mod_Vise_M12.step",
+    "name": "Gen3_Dual_Station_Mod_Vise_M12",
+    "matrix": [
+     1,
+     0,
+     0,
+     7288.781400000004,
+     0,
+     1,
+     0,
+     -6758.163327284412,
+     0,
+     0,
+     1,
+     5.080000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Dual_Station_INCH.step",
+    "name": "Gen3_Dual_Station_INCH",
+    "matrix": [
+     1,
+     0,
+     0,
+     7587.117400000005,
+     0,
+     1,
+     0,
+     -6758.163327284411,
+     0,
+     0,
+     1,
+     5.080000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Shariff_DMC2_Rev3.step",
+    "name": "Shariff_DMC2_Rev3",
+    "matrix": [
+     1,
+     0,
+     0,
+     7813.190400000005,
+     0,
+     1,
+     0,
+     -6884.787000000003,
+     0,
+     0,
+     1,
+     1.9050000000000002
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_microARC_6_Subplate.step",
+    "name": "Tormach_microARC_6_Subplate",
+    "matrix": [
+     1,
+     0,
+     0,
+     8465.964335069126,
+     0,
+     1,
+     0,
+     -6757.787000000001,
+     0,
+     0,
+     1,
+     163.18000000000083
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Samurai_120i_CAD_Master.step",
+    "name": "Samurai_120i_CAD_Master",
+    "matrix": [
+     1,
+     0,
+     0,
+     499.999999999999,
+     0,
+     1,
+     0,
+     -7200.084000000002,
+     0,
+     0,
+     1,
+     2.2673569121081758e-31
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Makera_Carvera_Fixture_Plate.step",
+    "name": "Makera_Carvera_Fixture_Plate",
+    "matrix": [
+     1,
+     0,
+     0,
+     652.0000000000039,
+     0,
+     1,
+     0,
+     -7324.952000000002,
+     0,
+     0,
+     1,
+     19.05000000000013
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Precision_Matthews_PM-728VT_26x9.step",
+    "name": "Precision_Matthews_PM-728VT_26x9",
+    "matrix": [
+     1,
+     0,
+     0,
+     1512.5999999995997,
+     0,
+     1,
+     0,
+     -7173.852000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Import_Milling_Machine_26x9.step",
+    "name": "Import_Milling_Machine_26x9",
+    "matrix": [
+     1,
+     0,
+     0,
+     2348.3999999995995,
+     0,
+     0,
+     -1,
+     -7174.645750000002,
+     0,
+     1,
+     0,
+     -44.44999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Kurt_6in_Vise_Subplate.step",
+    "name": "Kurt_6in_Vise_Subplate",
+    "matrix": [
+     1,
+     0,
+     0,
+     2994.056002993879,
+     0,
+     1,
+     0,
+     -7199.252000000002,
+     0,
+     0,
+     1,
+     24.130000000000006
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/SYIL_V5_18x9.step",
+    "name": "SYIL_V5_18x9",
+    "matrix": [
+     1,
+     0,
+     0,
+     3664.3999999996,
+     0,
+     0,
+     -1,
+     -7199.252000000002,
+     0,
+     1,
+     0,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_440_9x18.step",
+    "name": "Tormach_440_9x18",
+    "matrix": [
+     1,
+     0,
+     0,
+     4042.9999999996,
+     0,
+     1,
+     0,
+     -7312.282000000002,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/VORON_Cascade_INCH.step",
+    "name": "VORON_Cascade_INCH",
+    "matrix": [
+     1,
+     0,
+     0,
+     4820.1999999996,
+     0,
+     1,
+     0,
+     -7197.452000000002,
+     0,
+     0,
+     1,
+     1.709928438285377e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/VORON_Cascade_MM.step",
+    "name": "VORON_Cascade_MM",
+    "matrix": [
+     1,
+     0,
+     0,
+     5310.1999999996,
+     0,
+     1,
+     0,
+     -7197.452000000002,
+     0,
+     0,
+     1,
+     1.709928438285377e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Makera_Carvera_Air_Fixture_Plate_INCH.step",
+    "name": "Makera_Carvera_Air_Fixture_Plate_INCH",
+    "matrix": [
+     1,
+     0,
+     0,
+     5783.1999999996,
+     0,
+     1,
+     0,
+     -7195.952000000002,
+     0,
+     0,
+     1,
+     -12.699999999999983
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Makera_Carvera_Air_Fixture_Plate_MM.step",
+    "name": "Makera_Carvera_Air_Fixture_Plate_MM",
+    "matrix": [
+     1,
+     0,
+     0,
+     6239.1999999996,
+     0,
+     1,
+     0,
+     -7195.951999999998,
+     0,
+     0,
+     1,
+     1.1102230246251561e-15
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/microARC4_Rev3.step",
+    "name": "microARC4_Rev3",
+    "matrix": [
+     1,
+     0,
+     0,
+     6604.9379999996,
+     0,
+     1,
+     0,
+     -7187.451750000002,
+     0,
+     0,
+     1,
+     7.389644451905042e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/8x6_96mm_Pallet_Solid_Model.step",
+    "name": "8x6_96mm_Pallet_Solid_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     6893.2409999996,
+     0,
+     1,
+     0,
+     -7192.902000000002,
+     0,
+     0,
+     1,
+     6.3500000000000005
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/DMC2_Mini_CAD_Master.step",
+    "name": "DMC2_Mini_CAD_Master",
+    "matrix": [
+     1,
+     0,
+     0,
+     7269.8059999996,
+     0,
+     1,
+     0,
+     -7197.852000000003,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Desktop-Mill_10.4x8.step",
+    "name": "Haas_Desktop-Mill_10.4x8",
+    "matrix": [
+     1,
+     0,
+     0,
+     7976.441249999587,
+     0,
+     1,
+     0,
+     -7353.0655074479955,
+     0,
+     0,
+     1,
+     -133.65987988416498
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Makera_Z1_Fixture_Plate_Solid_Model.step",
+    "name": "Makera_Z1_Fixture_Plate_Solid_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     8097.4819999996,
+     0,
+     1,
+     0,
+     -7185.917000000002,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Carbide3D_Nomad_10.44x8.step",
+    "name": "Carbide3D_Nomad_10.44x8",
+    "matrix": [
+     1,
+     0,
+     0,
+     8523.3199999996,
+     0,
+     1,
+     0,
+     -7185.790000000002,
+     0,
+     0,
+     1,
+     -6.349999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Desktop_Mill_M6.step",
+    "name": "Haas_Desktop_Mill_M6",
+    "matrix": [
+     1,
+     0,
+     0,
+     385.4298341465776,
+     0,
+     1,
+     0,
+     -7753.610791665063,
+     0,
+     0,
+     1,
+     -133.65987988416504
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Desktop_Plate_Inch.step",
+    "name": "Haas_Desktop_Plate_Inch",
+    "matrix": [
+     1,
+     0,
+     0,
+     800.6058341465769,
+     0,
+     1,
+     0,
+     -7753.610791665063,
+     0,
+     0,
+     1,
+     -133.65987988416504
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Hobby_Mod_Vise_Metric.step",
+    "name": "Gen3_Hobby_Mod_Vise_Metric",
+    "matrix": [
+     1,
+     0,
+     0,
+     897.2098799999986,
+     0,
+     1,
+     0,
+     -7504.029400000002,
+     0,
+     0,
+     1,
+     3.4084259858957466e-08
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Hobby_Mod_Vise_Inch.step",
+    "name": "Gen3_Hobby_Mod_Vise_Inch",
+    "matrix": [
+     1,
+     0,
+     0,
+     1178.0757599999986,
+     0,
+     1,
+     0,
+     -7504.029400000002,
+     0,
+     0,
+     1,
+     3.641531520770525e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Single_Station_Mod_Vise_1-2in.step",
+    "name": "Gen3_Single_Station_Mod_Vise_1-2in",
+    "matrix": [
+     1,
+     0,
+     0,
+     1468.1567600000014,
+     0,
+     1,
+     0,
+     -7507.052000000002,
+     0,
+     0,
+     1,
+     5.080000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_Single_Station_Mod_Vise_M12.step",
+    "name": "Gen3_Single_Station_Mod_Vise_M12",
+    "matrix": [
+     1,
+     0,
+     0,
+     1769.0327599999987,
+     0,
+     1,
+     0,
+     -7507.0520000000015,
+     0,
+     0,
+     1,
+     5.080000000000001
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Haas_Tailstock_Subplate.step",
+    "name": "Haas_Tailstock_Subplate",
+    "matrix": [
+     1,
+     0,
+     0,
+     2035.1107599999984,
+     0,
+     1,
+     0,
+     -7569.917000000001,
+     0,
+     0,
+     1,
+     23.368000000000002
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Tormach_xsTECH_12x6.step",
+    "name": "Tormach_xsTECH_12x6",
+    "matrix": [
+     1,
+     0,
+     0,
+     2599.765759999999,
+     0,
+     1,
+     0,
+     -7554.677000000002,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1956_Mechanical_PuckChuck.step",
+    "name": "S1956_Mechanical_PuckChuck",
+    "matrix": [
+     1,
+     0,
+     0,
+     2972.0157599997865,
+     0,
+     1,
+     0,
+     -7548.962000001121,
+     0,
+     0,
+     1,
+     1.9984014443252823e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1958_Automatic_PuckChuck.step",
+    "name": "S1958_Automatic_PuckChuck",
+    "matrix": [
+     1,
+     0,
+     0,
+     3261.7157599997863,
+     0,
+     1,
+     0,
+     -7548.962000001122,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1955_Mechanical_PuckChuck.step",
+    "name": "S1955_Mechanical_PuckChuck",
+    "matrix": [
+     1,
+     0,
+     0,
+     3544.6212599999985,
+     0,
+     1,
+     0,
+     -7542.167500000001,
+     0,
+     0,
+     1,
+     2.531308496145357e-13
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1957_Automatic_PuckChuck.step",
+    "name": "S1957_Automatic_PuckChuck",
+    "matrix": [
+     1,
+     0,
+     0,
+     3820.732259999999,
+     0,
+     1,
+     0,
+     -7542.167500000001,
+     0,
+     0,
+     1,
+     13.970000000000256
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1757_Gen3_Soft_Jaw.step",
+    "name": "S1757_Gen3_Soft_Jaw",
+    "matrix": [
+     1,
+     0,
+     0,
+     4033.7877599999993,
+     0,
+     1,
+     0,
+     -7575.3780000000015,
+     0,
+     0,
+     1,
+     -0.8889999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Lite_Puck.step",
+    "name": "Lite_Puck",
+    "matrix": [
+     1,
+     0,
+     0,
+     4286.94737,
+     0,
+     1,
+     0,
+     -7523.108610000002,
+     0,
+     0,
+     1,
+     -0.0
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Adapter_Pin_Locating.step",
+    "name": "Adapter_Pin_Locating",
+    "matrix": [
+     1,
+     0,
+     0,
+     4872.856480000001,
+     0,
+     1,
+     0,
+     -7599.292000000002,
+     0,
+     0,
+     1,
+     -127.95352000000035
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/PuckChuck_Pullstud.step",
+    "name": "PuckChuck_Pullstud",
+    "matrix": [
+     1,
+     0,
+     0,
+     4655.777933985018,
+     0,
+     1,
+     0,
+     -7491.24595398502,
+     0,
+     0,
+     1,
+     18.150840000000006
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Gen3_PlugJack_Share_Model.step",
+    "name": "Gen3_PlugJack_Share_Model",
+    "matrix": [
+     1,
+     0,
+     0,
+     4828.147017068455,
+     0,
+     1,
+     0,
+     -7489.307835161674,
+     0,
+     0,
+     1,
+     -19.050000000000246
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Adapter_Pin_Non-locating.step",
+    "name": "Adapter_Pin_Non-locating",
+    "matrix": [
+     1,
+     0,
+     0,
+     5380.294646166876,
+     0,
+     1,
+     0,
+     -7599.292000000002,
+     0,
+     0,
+     1,
+     -127.95352000000035
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1822_Gen3_Smooth_Insert_Bar.step",
+    "name": "S1822_Gen3_Smooth_Insert_Bar",
+    "matrix": [
+     1,
+     0,
+     0,
+     5198.834146166874,
+     0,
+     1,
+     0,
+     -7485.462000000001,
+     0,
+     0,
+     1,
+     15.250000000000037
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1933_Round_Pin.step",
+    "name": "S1933_Round_Pin",
+    "matrix": [
+     1,
+     0,
+     0,
+     5402.936146166875,
+     0,
+     1,
+     0,
+     -7485.462000000001,
+     0,
+     0,
+     1,
+     -1.4809345768305976e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S1934_Diamond_Pin.step",
+    "name": "S1934_Diamond_Pin",
+    "matrix": [
+     1,
+     0,
+     0,
+     5565.636146166875,
+     0,
+     1,
+     0,
+     -7485.462000000001,
+     0,
+     0,
+     1,
+     -1.4809345768305976e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/Castle_Grip.step",
+    "name": "Castle_Grip",
+    "matrix": [
+     1,
+     0,
+     0,
+     5731.511296960386,
+     0,
+     1,
+     0,
+     -7485.4239000000025,
+     0,
+     0,
+     1,
+     -0.5079999999999999
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S2029_Round_Pin.step",
+    "name": "S2029_Round_Pin",
+    "matrix": [
+     1,
+     0,
+     0,
+     5897.036447753898,
+     0,
+     1,
+     0,
+     -7485.112000000002,
+     0,
+     0,
+     1,
+     -1.2628786905111159e-14
+    ]
+   }
+  },
+  {
+   "command": "file.insert_step",
+   "params": {
+    "path": "downloads/saunders/step/S2030_Diamond_Pin.step",
+    "name": "S2030_Diamond_Pin",
+    "matrix": [
+     1,
+     0,
+     0,
+     6059.036447753898,
+     0,
+     1,
+     0,
+     -7485.112000000002,
+     0,
+     0,
+     1,
+     -1.2628786905111159e-14
+    ]
+   }
+  }
+ ]
+}
