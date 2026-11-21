@@ -10,9 +10,9 @@ There are 47 libraries in CamCraft's tool library format (`camcraft-tools/1`, mi
 
 | Library | What |
 |---|---|
-| `lakeshore-carbide*.camtools` | Lakeshore Carbide end mills, ball and bull noses, chamfer mills, etc. |
-| `almar-inch*.camtools` | Almar tools, inch |
-| `tormach*.camtools` | Tormach TTS and BT30 tooling, plus the lathe set |
+| `lakeshore-carbide*.camtools` | [Lakeshore Carbide](https://www.lakeshorecarbide.com/) end mills, ball and bull noses, chamfer mills, etc. |
+| `almar-inch*.camtools` | [Almar Tool](https://www.almartool.com/) tools, inch |
+| `tormach*.camtools` | [Tormach](https://tormach.com/) TTS and BT30 tooling, plus the lathe set |
 | `drills-{inch,metric}[-{carbide,hss}]*.camtools` | Generic jobber drills by size |
 
 Each base library also comes in a per-material variant: `-aluminum`, `-mild-steel`, `-stainless`, `-brass` and `-acetal`. The variants carry starting rpm and feed values for that material.
