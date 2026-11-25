@@ -5,9 +5,9 @@ Three metric programs posted by CamCraft from `main` at `83d52ef6a` with the bui
 
 | File | Part | Operations |
 |---|---|---|
-| `first-part-840d.mpf` | 2D first part | face, pocket, contour |
-| `hole-work-840d.mpf` | hole work | centre drill, drill (incl. a bolt circle), more hole ops |
-| `rough-finish-840d.mpf` | 3D rough + finish | 3D pocket roughing and finishing (a long program) |
+| `first-part-840d.mpf` | 2D first part | face, pocket, contour, drill (D10 + D6 end mills, D6 drill) |
+| `hole-work-840d.mpf` | hole work | drill (incl. a bolt circle), tap drill, thread milling (D6 thread mill) |
+| `rough-finish-840d.mpf` | 3D rough + finish | 3D pocket roughing (D6 end mill) and finishing (D6 ball nose); a long program |
 
 Tools: each program names its tools in comments (`; T3 EM-1000-4FL - FLAT END MILL D10` ...); map them to your own tools/pockets or edit the T/D words. Work offset G54 at the part zero described in the program header.
 
